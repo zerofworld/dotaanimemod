@@ -27,7 +27,7 @@ Syntax highlighted code block
 ```
 ![Ange](https://github.com/zerofworld/dota2mod/blob/master/images/64895794_p0_master1200.jpg)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+桐人 [kirito](https://yadi.sk/d/TZxj61quRbWCCA).
 
 ### Jekyll Themes
 
