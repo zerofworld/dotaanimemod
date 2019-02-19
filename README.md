@@ -26,7 +26,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
- ![image](https://github.com/zerofworld/dota2mod/tree/master/magnataur.png)
+ ![image](https://github.com/zerofworld/dota2mod/tree/master/64895794_p0_master1200.jpg)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
