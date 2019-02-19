@@ -25,7 +25,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-![Ange](https://github.com/zerofworld/dota2mod/blob/master/images/64895794_p0_master1200.jpg)
+![Ange](https://github.com/zerofworld/dota2mod/blob/master/images/ange.jpg)
 
 桐人 [kirito](https://yadi.sk/d/TZxj61quRbWCCA).
 
