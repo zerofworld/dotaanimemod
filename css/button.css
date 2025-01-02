@@ -1,20 +1,29 @@
 .titleButton {
-    font-size: 13px;
-    font-family: "Microsoft Yahei";
-    color: #100e0e;
-    text-align: center;
-    margin-top: 5px;
-    /* padding: 8px 16px; */
-    border: none;
-    background-color: #52adfc;
-    border: 2px solid black;
-  border-radius: 50px;
-    cursor: pointer;
-    text-decoration: none;
-  }
-  
-  
-  
-  
-  
-  
+  font-size: 14px; /* 字体大小稍大 */
+  font-family: "Georgia", "Microsoft Yahei", sans-serif; /* 美观的字体组合 */
+  color: #ffffff; /* 默认白色字体 */
+  text-align: center;
+  margin: 2px auto; /* 自动水平居中 */
+  display: block; /* 转换为块级元素，便于居中 */
+  padding: 2px 5px; /* 内边距调整 */
+  border: 2px solid #007bff; /* 边框颜色与悬停时一致 */
+  background-color: #007bff; /* 默认蓝色背景 */
+  border-radius: 50px; /* 圆角边框 */
+  cursor: pointer;
+  width: 100px;
+  text-decoration: none; /* 去掉下划线 */
+  transition: all 0.3s ease; /* 添加平滑过渡效果 */
+}
+
+/* 鼠标悬停效果 */
+.titleButton:hover {
+  background-color: rgba(255, 255, 255, 0.3); /* 背景变透明 */
+  color: #007bff; /* 字体变为蓝色 */
+  border: 2px solid #007bff; /* 边框颜色与字体一致 */
+}
+.imgclass {
+  transform: scale(0.9); 
+}  
+.imgclass:hover {
+  transform: scale(1.0); 
+}  
