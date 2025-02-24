@@ -15,6 +15,16 @@ body {
     overflow:hidden
 }
 
+.headertext {
+    color:black;
+    font-size: 18px;
+}
+
+.adbtn {
+    text-align: center; 
+    margin-top: 10px;
+}
+
 footer {
     margin: 50px 0;
 }
