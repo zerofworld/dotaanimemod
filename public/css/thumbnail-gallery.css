@@ -10,6 +10,9 @@ body {
 
 .thumb {
     margin-bottom: 30px;
+    width:158px;
+    height:158px;
+    overflow:hidden
 }
 
 footer {
